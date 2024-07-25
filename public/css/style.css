@@ -1,0 +1,80 @@
+.navbar{
+    height: 3rem;
+    background-color: white;
+    /* border-bottom: 1px solid rgb(42, 38, 38); */
+}
+.fa-compass{
+    font-size: 2rem;
+    color: rgb(230, 51, 51);
+}
+.nav-link{
+    color: black !important;
+}
+.footer{
+    height: 7rem;
+    border-top: 2px solid #2222;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.info a{
+    text-decoration: none;
+    color: rgb(29, 29, 30);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info a:hover{
+
+    text-decoration: underline;
+}
+.all-info{
+    font-family: fantasy;
+}
+.card{
+    
+    border: none !important;
+    margin-top: 1rem !important;
+    
+} 
+.card-img-top{
+    height: 200px;
+    width: 100% !important;
+    
+    border-radius: 1rem !important;
+
+}
+.card-body{
+    padding: 0 !important;
+}
+.card-text{
+    font-family: Plus Jakarta Sans;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: black;
+
+}
+.row{
+    margin-left: 2rem !important;
+    margin-right: 2rem !important;
+}
+.link-a{
+    text-decoration: none ;
+    
+    
+}
+.btn{
+    background-color: #fe424d !important;
+    border: none !important;
+}
+.container-fluid{
+    display: flex !important;
+    justify-content: space-between !important;
+}
+.button{
+    display: flex !important;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    border: none !important;
+
+}
