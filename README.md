@@ -1,0 +1,1 @@
+This is a full-stack web application project that clones the core functionalities of Airbnb. Users can list properties, book stays, and review their experiences. The project is built to demonstrate a range of web development skills, including frontend design, backend logic, database management, and API integration.
