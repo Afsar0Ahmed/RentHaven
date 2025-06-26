@@ -16,5 +16,5 @@ Built with **React.js**, **Node.js**, **Express.js**, and **MongoDB**, it replic
 | **Search & Filters** | Location, price range, date picker, guest count |
 | **Booking Workflow** | Real-time availability check, reservation summary, confirmation screen |
 | **Authentication** | JWT-based signup / login, role-based access (host, guest) |
-| **Responsive UI** | Tailwind-CSS-power
+| **Responsive UI** | Tailwind-CSS
 
